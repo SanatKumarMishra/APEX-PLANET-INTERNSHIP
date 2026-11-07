@@ -1,12 +1,11 @@
-# Week 1 — Basics of Web Development
+# Week 2 — Intermediate HTML, CSS and JavaScript
 
-**Covers:** semantic HTML, headings, paragraphs, image, links, CSS colours/spacing/layout, and a JavaScript click interaction.
+**Covers:** a contact form with required-field and email validation, responsive Flexbox/Grid layout, and a dynamic to-do list with add/done/remove actions.
 
 ## Run it
-Open `index.html` in a browser. No installation or build step is needed.
+Open `index.html` in a modern browser.
 
-## What to check
-- The navigation links jump to the correct sections.
-- The image has meaningful alternative text.
-- The **Say hello** button updates the message without reloading the page.
-- Resize the browser to see the layout stack on a narrow screen.
+## Notes
+- The form is a front-end demonstration. It validates input but does not send or store messages.
+- The to-do list is held in memory and resets when the page reloads. Persistent storage is introduced in Week 4.
+- The gallery uses remote Unsplash images, so an internet connection is needed for those images.
